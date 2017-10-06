@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mydata/source/learn-cpp/PancakeGlutton/src/PancakeGlutton.cpp
+iostream
+-
+utility
+-
+vector
+-
+algorithm
+-
+functional
+-
+

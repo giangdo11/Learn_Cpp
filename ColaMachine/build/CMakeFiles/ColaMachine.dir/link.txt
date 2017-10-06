@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ColaMachine.dir/src/ColaMachine.cpp.o  -o ../bin/ColaMachine -rdynamic 

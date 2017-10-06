@@ -1,0 +1,3 @@
+/mydata/source/learn-cpp/BracketingSearch/build/CMakeFiles/edit_cache.dir
+/mydata/source/learn-cpp/BracketingSearch/build/CMakeFiles/rebuild_cache.dir
+/mydata/source/learn-cpp/BracketingSearch/build/CMakeFiles/BracketingSearch.dir

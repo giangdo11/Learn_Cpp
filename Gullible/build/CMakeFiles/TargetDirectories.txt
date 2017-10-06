@@ -1,0 +1,3 @@
+/mydata/source/learn-cpp/Gullible/build/CMakeFiles/edit_cache.dir
+/mydata/source/learn-cpp/Gullible/build/CMakeFiles/rebuild_cache.dir
+/mydata/source/learn-cpp/Gullible/build/CMakeFiles/Gullible.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mydata/source/learn-cpp/BracketingSearch/src/BracketingSearch.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
